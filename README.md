@@ -1,3 +1,6 @@
+<img width="1341" height="894" alt="image" src="https://github.com/user-attachments/assets/296a43d5-29a9-43cd-8166-c0b708d21acb" />
+
+
 📊 Training Analytics System – Excel Prototype
 
 This project is a modular Excel-based analytical system for strength training programming.
